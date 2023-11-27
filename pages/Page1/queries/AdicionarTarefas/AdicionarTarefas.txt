@@ -1,0 +1,6 @@
+{
+	"Nome": "{{InputNome.text}}",
+	"Descricao": "{{InputDesc.text}}",
+	"Prazo": {{InputData.formattedDate}},
+	"Concluida": false
+}
